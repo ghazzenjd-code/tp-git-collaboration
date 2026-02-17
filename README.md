@@ -1,3 +1,2 @@
-TTP Git & GitHub
-Binôme : Abdeljalil & ghassen
-Version modifiée par étudiant A
+TP Git & GitHub
+Version modifiée par étudiant A et B
